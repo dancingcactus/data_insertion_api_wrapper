@@ -1,5 +1,5 @@
 # Purpose
-This is a light wrapper around the Adobe Analytics Data [Insertion API](https://marketing.adobe.com/developer/documentation/data-insertion/c-data-insertion-api)
+This is a **VERY** light wrapper around the Adobe Analytics Data [Insertion API](https://marketing.adobe.com/developer/documentation/data-insertion/c-data-insertion-api)
 
 # Getting Started
 ```python
